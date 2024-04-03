@@ -1,3 +1,7 @@
+#by zyd
+#if find build err. reference https://github.com/BehaviorTree/Groot/commit/a0db79aeb6bdf9deeeddea95c64e8c7b93526f02
+
+
 [![Build Status](https://travis-ci.org/BehaviorTree/Groot.svg?branch=master)](https://travis-ci.org/BehaviorTree/Groot)
 
 # Groot 
@@ -88,4 +92,6 @@ MOOD2Be is one of the six **Integrated Technical Projects (ITPs)** selected from
 
 It received funding from the European Union’s Horizon 2020 Research and Innovation Programme
 under the RobMoSys project.
+
+
 
